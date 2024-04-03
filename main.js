@@ -1,0 +1,9 @@
+
+
+function suma(a,b){
+a = Number(document.getElementById("a").value);
+b = Number(document.getElementById("b").value);
+let c = a+b
+prompt(c);
+return c;
+}

@@ -1,0 +1,20 @@
+body {
+    background-image: url('deathTheKid.jpeg');
+    background-size:100%;
+    background-repeat: no-repeat;
+    
+}
+#a{
+    background-color: #3CBC8D;
+  color: white;
+}
+#b{
+    background-color: #4a58d3;
+  color: white;
+}
+#btn{
+    border: 4;
+    padding: 4;
+    cursor: "pointer";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
